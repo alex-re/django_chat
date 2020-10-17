@@ -7,7 +7,7 @@
 "editor.tokenColorCustomizations": {
     //  "comments": "#d4922f"
     },
-    "python.pythonPath": "venv/bin/python",
+    "python.pythonPath": "/home/ali/hipet.org/venv/bin/python3",
 
     "[html]": {
         "editor.tabSize": 2,
