@@ -1,6 +1,9 @@
+# Django
 venv/
 *.pyc
 *.db
 db.sqlite3
+# React
 .cache/
 node_modules/
+dist/
